@@ -5,6 +5,7 @@
   Time: 7:19 PM
   To change this template use File | Settings | File Templates.
   https://www.youtube.com/watch?v=7Jcr2ZieX9U&list=PLTX5B0J16aFA1UUE3MZKS3Tl124eeMa_L&index=3
+  git rm --cached -r .idea
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
